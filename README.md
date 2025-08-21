@@ -1,5 +1,3 @@
-# Hello there; welcome 👋🏾
-
 
 👋 Hi, I’m Chukwuebuka Gerard Okolie — a Full-Stack Developer with strong experience in DevOps and Cloud Engineering.
 
